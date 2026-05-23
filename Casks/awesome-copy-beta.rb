@@ -7,8 +7,6 @@ cask "awesome-copy-beta" do
   desc "Clipboard manager for Mac (beta)"
   homepage "https://awesomecopy.app"
 
-  conflicts_with cask: "awesome-copy"
-
   app "Awesome Copy.app"
 
   zap trash: [
