@@ -1,8 +1,8 @@
 cask "awesome-copy-beta" do
-  version "6.2b1,369"
-  sha256 "22a31a8b08c99abc146b5c16f78f4a9171c75335e56e51ee00231d0d478f0124"
+  version "6.2b3,370"
+  sha256 "2947d4ca4816104311667feedf40e3e561b3e2c2cc6d5a5f763991290592543f"
 
-  url "https://github.com/kindparkllc/Awesome-Copy/releases/download/Beta/AwesomeCopy-6.2b1-369.dmg"
+  url "https://github.com/kindparkllc/Awesome-Copy/releases/download/Beta/AwesomeCopy-6.2b3-370.dmg"
   name "Awesome Copy"
   desc "Clipboard manager for Mac (beta)"
   homepage "https://awesomecopy.app"
